@@ -302,7 +302,7 @@ function IconPicker() {
                       >
                         <SimpleGrid
                           columns={columnsInOnePage}
-                          spacing={4}
+                          spacing="auto"
                           flexWrap="wrap"
                           justifyItems="center"
                         >
